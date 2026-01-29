@@ -12,7 +12,7 @@
 | 허준서 | 팀장  | [Junseo0324](https://github.com/Junseo0324)       |
 | 이창한 | 부팀장 | [chlee9610](https://github.com/chlee9610)         |
 | 안현진 | 팀원  | [h1jn2](https://github.com/h1jn2)                 |
-| 이다은 | 팀원  | [mninm](https://github.com/mninm)                 |
+| 이다은 | 팀원  | [daeun-ver](https://github.com/daeun-ver)                 |
 | 이지형 | 팀원  | [groundinsider](https://github.com/groundinsider) |
 
 ---
